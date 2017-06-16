@@ -1,11 +1,31 @@
 ﻿<loottables>
 	<loottable name="NuggetSmall">
-		<rewardLevel min="0" max="99">
+		<rewardLevel min="0" max="13">
 			<advisorsChance chance="20%">
 				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
 			</advisorsChance>
 			<materialsChance chance="5%">
+				<rarityChance junk="25%" uncommon="25%" common="25%" rare="25%" epic="0%" />
+			</materialsChance>
+			<consumablesChance chance="5%">
 				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</consumablesChance>
+			<designsChance chance="10%">
+				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</designsChance>
+			<blueprintsChance chance="10%">
+				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</blueprintsChance>
+			<traitsChance chance="50%">
+				<rarityChance common="50%" rare="50%" epic="0%" legendary="0%" />
+			</traitsChance>
+		</rewardLevel>
+		<rewardLevel min="14" max="99">
+			<advisorsChance chance="20%">
+				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</advisorsChance>
+			<materialsChance chance="5%">
+				<rarityChance junk="0%" uncommon="33%" common="34%" rare="33%" epic="0%" />
 			</materialsChance>
 			<consumablesChance chance="5%">
 				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
@@ -27,7 +47,7 @@
 				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
 			</advisorsChance>
 			<materialsChance chance="5%">
-				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
+				<rarityChance junk="0%" uncommon="25%" common="25%" rare="25%" epic="25%" />
 			</materialsChance>
 			<consumablesChance chance="5%">
 				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
@@ -49,7 +69,7 @@
 				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
 			</advisorsChance>
 			<materialsChance chance="5%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
+				<rarityChance junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
 			</materialsChance>
 			<consumablesChance chance="5%">
 				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
@@ -69,7 +89,7 @@
 				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
 			</advisorsChance>
 			<materialsChance chance="5%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
+				<rarityChance junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
 			</materialsChance>
 			<consumablesChance chance="5%">
 				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
@@ -91,7 +111,7 @@
 				<rarityChance uncommon="0%" common="0%" rare="50%" epic="50%" />
 			</advisorsChance>
 			<materialsChance chance="0%">
-				<rarityChance uncommon="0%" common="0%" rare="0%" epic="0%" />
+				<rarityChance junk="0%" uncommon="0%" common="0%" rare="0%" epic="0%" />
 			</materialsChance>
 			<consumablesChance chance="0%">
 				<rarityChance uncommon="0%" common="0%" rare="0%" epic="0%" />
