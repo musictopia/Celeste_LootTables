@@ -1,130 +1,130 @@
 ﻿<loottables>
 	<loottable name="NuggetSmall">
 		<rewardLevel min="0" max="13">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</advisorsChance>
-			<materialsChance chance="5%">
-				<rarityChance junk="25%" uncommon="25%" common="25%" rare="25%" epic="0%" />
-			</materialsChance>
-			<consumablesChance chance="5%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</consumablesChance>
-			<designsChance chance="10%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</designsChance>
-			<blueprintsChance chance="10%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="50%" rare="50%" epic="0%" legendary="0%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</advisors>
+			<materials chance="5%">
+				<rarity junk="25%" uncommon="25%" common="25%" rare="25%" epic="0%" />
+			</materials>
+			<consumables chance="5%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</consumables>
+			<designs chance="10%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</designs>
+			<blueprints chance="10%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="50%" rare="50%" epic="0%" legendary="0%" />
+			</traits>
 		</rewardLevel>
 		<rewardLevel min="14" max="99">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</advisorsChance>
-			<materialsChance chance="5%">
-				<rarityChance junk="0%" uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</materialsChance>
-			<consumablesChance chance="5%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</consumablesChance>
-			<designsChance chance="10%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</designsChance>
-			<blueprintsChance chance="10%">
-				<rarityChance uncommon="33%" common="34%" rare="33%" epic="0%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="50%" rare="50%" epic="0%" legendary="0%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</advisors>
+			<materials chance="5%">
+				<rarity junk="0%" uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</materials>
+			<consumables chance="5%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</consumables>
+			<designs chance="10%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</designs>
+			<blueprints chance="10%">
+				<rarity uncommon="33%" common="34%" rare="33%" epic="0%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="50%" rare="50%" epic="0%" legendary="0%" />
+			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetMedium">
 		<rewardLevel min="0" max="99">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
-			</advisorsChance>
-			<materialsChance chance="5%">
-				<rarityChance junk="0%" uncommon="25%" common="25%" rare="25%" epic="25%" />
-			</materialsChance>
-			<consumablesChance chance="5%">
-				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
-			</consumablesChance>
-			<designsChance chance="10%">
-				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
-			</designsChance>
-			<blueprintsChance chance="10%">
-				<rarityChance uncommon="25%" common="25%" rare="25%" epic="25%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="33%" rare="34%" epic="33%" legendary="0%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="25%" common="25%" rare="25%" epic="25%" />
+			</advisors>
+			<materials chance="5%">
+				<rarity junk="0%" uncommon="25%" common="25%" rare="25%" epic="25%" />
+			</materials>
+			<consumables chance="5%">
+				<rarity uncommon="25%" common="25%" rare="25%" epic="25%" />
+			</consumables>
+			<designs chance="10%">
+				<rarity uncommon="25%" common="25%" rare="25%" epic="25%" />
+			</designs>
+			<blueprints chance="10%">
+				<rarity uncommon="25%" common="25%" rare="25%" epic="25%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="33%" rare="34%" epic="33%" legendary="0%" />
+			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetLarge">
 		<rewardLevel min="0" max="42">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</advisorsChance>
-			<materialsChance chance="5%">
-				<rarityChance junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</materialsChance>
-			<consumablesChance chance="5%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</consumablesChance>
-			<designsChance chance="10%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</designsChance>
-			<blueprintsChance chance="10%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="0%" rare="34%" epic="33%" legendary="0%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</advisors>
+			<materials chance="5%">
+				<rarity junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</materials>
+			<consumables chance="5%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</consumables>
+			<designs chance="10%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</designs>
+			<blueprints chance="10%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="0%" rare="34%" epic="33%" legendary="0%" />
+			</traits>
 		</rewardLevel>
 		<rewardLevel min="43" max="99">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</advisorsChance>
-			<materialsChance chance="5%">
-				<rarityChance junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</materialsChance>
-			<consumablesChance chance="5%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</consumablesChance>
-			<designsChance chance="10%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</designsChance>
-			<blueprintsChance chance="10%">
-				<rarityChance uncommon="0%" common="33%" rare="34%" epic="33%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="33%" rare="33%" epic="33%" legendary="1%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</advisors>
+			<materials chance="5%">
+				<rarity junk="0%" uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</materials>
+			<consumables chance="5%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</consumables>
+			<designs chance="10%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</designs>
+			<blueprints chance="10%">
+				<rarity uncommon="0%" common="33%" rare="34%" epic="33%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="33%" rare="33%" epic="33%" legendary="1%" />
+			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetLegendary">
 		<rewardLevel min="0" max="99">
-			<advisorsChance chance="20%">
-				<rarityChance uncommon="0%" common="0%" rare="50%" epic="50%" />
-			</advisorsChance>
-			<materialsChance chance="0%">
-				<rarityChance junk="0%" uncommon="0%" common="0%" rare="0%" epic="0%" />
-			</materialsChance>
-			<consumablesChance chance="0%">
-				<rarityChance uncommon="0%" common="0%" rare="0%" epic="0%" />
-			</consumablesChance>
-			<designsChance chance="15%">
-				<rarityChance uncommon="0%" common="0%" rare="50%" epic="50%" />
-			</designsChance>
-			<blueprintsChance chance="15%">
-				<rarityChance uncommon="0%" common="0%" rare="50%" epic="50%" />
-			</blueprintsChance>
-			<traitsChance chance="50%">
-				<rarityChance common="0%" rare="0%" epic="75%" legendary="25%" />
-			</traitsChance>
+			<advisors chance="20%">
+				<rarity uncommon="0%" common="0%" rare="50%" epic="50%" />
+			</advisors>
+			<materials chance="0%">
+				<rarity junk="0%" uncommon="0%" common="0%" rare="0%" epic="0%" />
+			</materials>
+			<consumables chance="0%">
+				<rarity uncommon="0%" common="0%" rare="0%" epic="0%" />
+			</consumables>
+			<designs chance="15%">
+				<rarity uncommon="0%" common="0%" rare="50%" epic="50%" />
+			</designs>
+			<blueprints chance="15%">
+				<rarity uncommon="0%" common="0%" rare="50%" epic="50%" />
+			</blueprints>
+			<traits chance="50%">
+				<rarity common="0%" rare="0%" epic="75%" legendary="25%" />
+			</traits>
 		</rewardLevel>
 	</loottable>
 </loottables>
