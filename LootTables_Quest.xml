@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+
+<loottables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<loottable name="General">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="GeneralLegendary">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.20">
+				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
+			</advisors>
+			<materials chance="0.05">
+				<rarity junk="0.01" common="0.04" uncommon="0.15" rare="0.45" epic="0.35" />
+			</materials>
+			<consumables chance="0.05">
+				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
+			</designs>
+			<blueprints chance="0.10">
+				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.05" rare="0.30" epic="0.45" legendary="0.20" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="GeneralSkirmish">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="GeneralCampaign">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="GeneralGoldenTicketRare">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.05">
+				<rarity common="0.00" uncommon="0.00" rare="1.00" epic="0.00" />
+			</advisors>
+			<materials chance="0.05">
+				<rarity junk="0.00" common="0.00" uncommon="0.00" rare="1.00" epic="0.00" />
+			</materials>
+			<consumables chance="0.05">
+				<rarity common="0.00" uncommon="0.00" rare="1.00" epic="0.00" />
+			</consumables>
+			<designs chance="0.05">
+				<rarity common="0.00" uncommon="0.00" rare="1.00" epic="0.00" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.00" uncommon="0.00" rare="1.00" epic="0.00" />
+			</blueprints>
+			<traits chance="0.75">
+				<rarity uncommon="0.00" rare="1.0" epic="0.00" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="GeneralGoldenTicketUncommon">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.05">
+				<rarity common="0.00" uncommon="1.00" rare="0.00" epic="0.00" />
+			</advisors>
+			<materials chance="0.05">
+				<rarity junk="0.00" common="0.00" uncommon="1.00" rare="0.00" epic="0.00" />
+			</materials>
+			<consumables chance="0.05">
+				<rarity common="0.00" uncommon="1.00" rare="0.00" epic="0.00" />
+			</consumables>
+			<designs chance="0.05">
+				<rarity common="0.00" uncommon="1.00" rare="0.00" epic="0.00" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.00" uncommon="1.00" rare="0.00" epic="0.00" />
+			</blueprints>
+			<traits chance="0.75">
+				<rarity uncommon="1.00" rare="0.0" epic="0.00" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="Weekly">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.25">
+				<rarity common="0.05" uncommon="0.15" rare="0.35" epic="0.45" />
+			</advisors>
+			<materials chance="0.05">
+				<rarity junk="0.01" common="0.04" uncommon="0.15" rare="0.35" epic="0.45" />
+			</materials>
+			<consumables chance="0.05">
+				<rarity common="0.05" uncommon="0.15" rare="0.35" epic="0.45" />
+			</consumables>
+			<designs chance="0.05">
+				<rarity common="0.05" uncommon="0.15" rare="0.35" epic="0.45" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.05" uncommon="0.15" rare="0.35" epic="0.45" />
+			</blueprints>
+			<traits chance="0.55">
+				<rarity uncommon="0.05" rare="0.20" epic="0.45" legendary="0.30" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="Booster1">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="CeltWarrior">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="CeltDruid">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+	<loottable name="CeltHigh">
+		<rewardLevel min="0" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.25" uncommon="0.30" rare="0.25" epic="0.15" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.30" rare="0.25" epic="0.15" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.40" rare="0.40" epic="0.20" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+	</loottable>
+</loottables>
