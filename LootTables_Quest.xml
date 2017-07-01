@@ -61,7 +61,7 @@
 				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
 			</blueprints>
 			<traits chance="0.50">
-				<rarity uncommon="0.05" rare="0.30" epic="0.45" legendary="0.20" />
+				<rarity uncommon="0.05" rare="0.35" epic="0.50" legendary="0.10" />
 			</traits>
 		</rewardLevel>
 	</loottable>
@@ -211,7 +211,7 @@
 				<rarity common="0.05" uncommon="0.15" rare="0.35" epic="0.45" />
 			</blueprints>
 			<traits chance="0.55">
-				<rarity uncommon="0.05" rare="0.20" epic="0.45" legendary="0.30" />
+				<rarity uncommon="0.05" rare="0.25" epic="0.50" legendary="0.20" />
 			</traits>
 		</rewardLevel>
 	</loottable>

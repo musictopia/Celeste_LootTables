@@ -2,27 +2,27 @@
 
 <loottables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<loottable name="NuggetSmall">
-		<rewardLevel min="0" max="4">
+		<rewardLevel min="0" max="3">
 			<advisors chance="0.10">
-				<rarity  common="0.44" uncommon="0.30" rare="0.25" epic="0.01" />
+				<rarity  common="0.45" uncommon="0.30" rare="0.25" epic="0.00" />
 			</advisors>
 			<materials chance="0.25">
-				<rarity junk="0.29" uncommon="0.30" common="0.25" rare="0.15" epic="0.01" />
+				<rarity junk="0.30" uncommon="0.30" common="0.25" rare="0.15" epic="0.00" />
 			</materials>
 			<consumables chance="0.25">
-				<rarity  common="0.44" uncommon="0.30" rare="0.25" epic="0.01" />
+				<rarity  common="0.45" uncommon="0.30" rare="0.25" epic="0.00" />
 			</consumables>
 			<designs chance="0.10">
-				<rarity  common="0.44" uncommon="0.30" rare="0.25" epic="0.01" />
+				<rarity  common="0.45" uncommon="0.30" rare="0.25" epic="0.00" />
 			</designs>
 			<blueprints chance="0.10">
-				<rarity  common="0.44" uncommon="0.30" rare="0.25" epic="0.01" />
+				<rarity  common="0.45" uncommon="0.30" rare="0.25" epic="0.00" />
 			</blueprints>
 			<traits chance="0.20">
 				<rarity uncommon="0.65" rare="0.30" epic="0.05" legendary="0.00" />
 			</traits>
 		</rewardLevel>
-		<rewardLevel min="5" max="99">
+		<rewardLevel min="4" max="99">
 			<advisors chance="0.10">
 				<rarity  common="0.40" uncommon="0.30" rare="0.25" epic="0.05" />
 			</advisors>
@@ -103,7 +103,7 @@
 				<rarity common="0.10" uncommon="0.20" rare="0.45" epic="0.25" />
 			</blueprints>
 			<traits chance="0.45">
-				<rarity uncommon="0.15" rare="0.48" epic="0.35" legendary="0.02" />
+				<rarity uncommon="0.15" rare="0.49" epic="0.35" legendary="0.01" />
 			</traits>
 		</rewardLevel>
 	</loottable>
@@ -125,7 +125,7 @@
 				<rarity common="0.05" uncommon="0.15" rare="0.45" epic="0.35" />
 			</blueprints>
 			<traits chance="0.50">
-				<rarity uncommon="0.05" rare="0.30" epic="0.45" legendary="0.20" />
+				<rarity uncommon="0.05" rare="0.35" epic="0.50" legendary="0.10" />
 			</traits>
 		</rewardLevel>
 	</loottable>
