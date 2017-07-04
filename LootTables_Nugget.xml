@@ -2,7 +2,7 @@
 
 <loottables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<loottable name="NuggetSmall">
-		<rewardLevel min="0" max="3">
+		<rewardLevel min="0" max="4">
 			<advisors chance="0.10">
 				<rarity  common="0.50" uncommon="0.40" rare="0.10" epic="0.00" />
 			</advisors>
@@ -19,10 +19,10 @@
 				<rarity  common="0.50" uncommon="0.40" rare="0.10" epic="0.00" />
 			</blueprints>
 			<traits chance="0.20">
-				<rarity uncommon="0.65" rare="0.30" epic="0.05" legendary="0.00" />
+				<rarity uncommon="0.90" rare="0.10" epic="0.00" legendary="0.00" />
 			</traits>
 		</rewardLevel>
-		<rewardLevel min="4" max="99">
+		<rewardLevel min="5" max="99">
 			<advisors chance="0.10">
 				<rarity  common="0.43" uncommon="0.40" rare="0.15" epic="0.02" />
 			</advisors>
