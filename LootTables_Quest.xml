@@ -323,4 +323,46 @@
 			</traits>
 		</rewardLevel>
 	</loottable>
+	<loottable name="GeneralGambling"> <!--Moe-->
+		<rewardLevel min="0" max="42">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.30" uncommon="0.30" rare="0.25" epic="0.10" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.45" rare="0.40" epic="0.15" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="43" max="99">
+			<advisors chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.05" common="0.30" uncommon="0.30" rare="0.25" epic="0.10" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</consumables>
+			<designs chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</designs>
+			<blueprints chance="0.15">
+				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			</blueprints>
+			<traits chance="0.25">
+				<rarity uncommon="0.44" rare="0.40" epic="0.15" legendary="0.01" />
+			</traits>
+		</rewardLevel>
+	</loottable>
 </loottables>
