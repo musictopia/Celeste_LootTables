@@ -444,7 +444,7 @@
 				<rarity uncommon="0.76" rare="0.17" epic="0.07" legendary="0.00" />
 			</traits>
 		</rewardLevel>
-		<rewardLevel min="33" max="37"> <!--Lvl 35 Chest-->
+		<rewardLevel min="38" max="42"> <!--Lvl 35 Chest-->
 			<advisors chance="0.05">
 				<rarity common="0.27" uncommon="0.45" rare="0.20" epic="0.08" />
 			</advisors>
