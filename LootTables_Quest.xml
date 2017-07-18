@@ -324,28 +324,148 @@
 		</rewardLevel>
 	</loottable>
 	<loottable name="GeneralGambling"> <!--Moe-->
-		<rewardLevel min="0" max="42">
-			<advisors chance="0.15">
-				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+		<rewardLevel min="0" max="12"> <!--Lvl 5 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.49" uncommon="0.45" rare="0.05" epic="0.01" />
 			</advisors>
 			<materials chance="0.15">
-				<rarity junk="0.05" common="0.30" uncommon="0.30" rare="0.25" epic="0.10" />
+				<rarity junk="0.34" common="0.30" uncommon="0.30" rare="0.05" epic="0.01" />
 			</materials>
 			<consumables chance="0.15">
-				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+				<rarity common="0.49" uncommon="0.45" rare="0.05" epic="0.01" />
 			</consumables>
-			<designs chance="0.15">
-				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			<designs chance="0.10">
+				<rarity common="0.49" uncommon="0.45" rare="0.05" epic="0.01" />
 			</designs>
-			<blueprints chance="0.15">
-				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
+			<blueprints chance="0.05">
+				<rarity common="0.49" uncommon="0.45" rare="0.05" epic="0.01" />
 			</blueprints>
-			<traits chance="0.25">
-				<rarity uncommon="0.45" rare="0.40" epic="0.15" legendary="0.00" />
+			<traits chance="0.50">
+				<rarity uncommon="0.94" rare="0.05" epic="0.01" legendary="0.00" />
 			</traits>
 		</rewardLevel>
-		<rewardLevel min="43" max="99">
-			<advisors chance="0.15">
+		<rewardLevel min="13" max="17"> <!--Lvl 10 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.46" uncommon="0.45" rare="0.07" epic="0.02" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.31" common="0.30" uncommon="0.30" rare="0.07" epic="0.02" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.46" uncommon="0.45" rare="0.07" epic="0.02" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.46" uncommon="0.45" rare="0.07" epic="0.02" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.46" uncommon="0.45" rare="0.07" epic="0.02" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.91" rare="0.07" epic="0.02" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="18" max="22"> <!--Lvl 15 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.42" uncommon="0.45" rare="0.10" epic="0.03" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.27" common="0.30" uncommon="0.30" rare="0.10" epic="0.03" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.42" uncommon="0.45" rare="0.10" epic="0.03" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.42" uncommon="0.45" rare="0.10" epic="0.03" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.42" uncommon="0.45" rare="0.10" epic="0.03" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.87" rare="0.10" epic="0.03" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="23" max="27"> <!--Lvl 20 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.39" uncommon="0.45" rare="0.12" epic="0.04" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.24" common="0.30" uncommon="0.30" rare="0.12" epic="0.04" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.39" uncommon="0.45" rare="0.12" epic="0.04" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.39" uncommon="0.45" rare="0.12" epic="0.04" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.39" uncommon="0.45" rare="0.12" epic="0.04" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.84" rare="0.12" epic="0.04" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="28" max="32"> <!--Lvl 25 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.35" uncommon="0.45" rare="0.15" epic="0.05" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.20" common="0.30" uncommon="0.30" rare="0.15" epic="0.05" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.35" uncommon="0.45" rare="0.15" epic="0.05" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.35" uncommon="0.45" rare="0.15" epic="0.05" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.35" uncommon="0.45" rare="0.15" epic="0.05" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.80" rare="0.15" epic="0.05" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="33" max="37"> <!--Lvl 30 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.31" uncommon="0.45" rare="0.17" epic="0.07" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.16" common="0.30" uncommon="0.30" rare="0.17" epic="0.07" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.31" uncommon="0.45" rare="0.17" epic="0.07" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.31" uncommon="0.45" rare="0.17" epic="0.07" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.31" uncommon="0.45" rare="0.17" epic="0.07" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.76" rare="0.17" epic="0.07" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="33" max="37"> <!--Lvl 35 Chest-->
+			<advisors chance="0.05">
+				<rarity common="0.27" uncommon="0.45" rare="0.20" epic="0.08" />
+			</advisors>
+			<materials chance="0.15">
+				<rarity junk="0.12" common="0.30" uncommon="0.30" rare="0.20" epic="0.08" />
+			</materials>
+			<consumables chance="0.15">
+				<rarity common="0.27" uncommon="0.45" rare="0.20" epic="0.08" />
+			</consumables>
+			<designs chance="0.10">
+				<rarity common="0.27" uncommon="0.45" rare="0.20" epic="0.08" />
+			</designs>
+			<blueprints chance="0.05">
+				<rarity common="0.27" uncommon="0.45" rare="0.20" epic="0.08" />
+			</blueprints>
+			<traits chance="0.50">
+				<rarity uncommon="0.72" rare="0.20" epic="0.08" legendary="0.00" />
+			</traits>
+		</rewardLevel>
+		<rewardLevel min="43" max="99"> <!--Lvl 40 Chest-->
+			<advisors chance="0.05">
 				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
 			</advisors>
 			<materials chance="0.15">
@@ -354,14 +474,14 @@
 			<consumables chance="0.15">
 				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
 			</consumables>
-			<designs chance="0.15">
+			<designs chance="0.10">
 				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
 			</designs>
-			<blueprints chance="0.15">
+			<blueprints chance="0.05">
 				<rarity common="0.30" uncommon="0.35" rare="0.25" epic="0.10" />
 			</blueprints>
-			<traits chance="0.25">
-				<rarity uncommon="0.44" rare="0.40" epic="0.15" legendary="0.01" />
+			<traits chance="0.50">
+				<rarity uncommon="0.64" rare="0.25" epic="0.10" legendary="0.01" />
 			</traits>
 		</rewardLevel>
 	</loottable>
