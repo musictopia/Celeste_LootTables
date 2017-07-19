@@ -46,22 +46,22 @@
 	<loottable name="GeneralLegendary">
 		<rewardLevel min="0" max="99">
 			<advisors chance="0.20">
-				<rarity common="0.05" uncommon="0.25" rare="0.45" epic="0.25" />
+				<rarity common="0.05" uncommon="0.20" rare="0.45" epic="0.30" />
 			</advisors>
 			<materials chance="0.05">
-				<rarity junk="0.01" common="0.14" uncommon="0.15" rare="0.45" epic="0.25" />
+				<rarity junk="0.01" common="0.09" uncommon="0.15" rare="0.45" epic="0.30" />
 			</materials>
 			<consumables chance="0.05">
-				<rarity common="0.05" uncommon="0.25" rare="0.45" epic="0.25" />
+				<rarity common="0.05" uncommon="0.20" rare="0.45" epic="0.30" />
 			</consumables>
 			<designs chance="0.10">
-				<rarity common="0.05" uncommon="0.25" rare="0.45" epic="0.25" />
+				<rarity common="0.05" uncommon="0.20" rare="0.45" epic="0.30" />
 			</designs>
 			<blueprints chance="0.10">
-				<rarity common="0.05" uncommon="0.25" rare="0.45" epic="0.25" />
+				<rarity common="0.05" uncommon="0.20" rare="0.45" epic="0.30" />
 			</blueprints>
 			<traits chance="0.50">
-				<rarity uncommon="0.22" rare="0.35" epic="0.40" legendary="0.03" />
+				<rarity uncommon="0.20" rare="0.30" epic="0.45" legendary="0.05" />
 			</traits>
 		</rewardLevel>
 	</loottable>
