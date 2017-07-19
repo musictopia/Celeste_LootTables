@@ -43,7 +43,8 @@
 			</traits>
 		</rewardLevel>
 	</loottable>
-	<loottable name="Weekly"> <!--Elite Meet in crete-->
+	<loottable name="Weekly">
+		<!-- Leg - Elite Meet in crete-->
 		<rewardLevel min="0" max="42">
 			<advisors chance="0.20">
 				<rarity common="0.00" uncommon="0.30" rare="0.45" epic="0.25" />
@@ -61,7 +62,7 @@
 				<rarity common="0.00" uncommon="0.30" rare="0.45" epic="0.25" />
 			</blueprints>
 			<traits chance="0.50">
-				<rarity uncommon="0.00" rare="0.45" epic="0.40" legendary="0.05" />
+				<rarity uncommon="0.00" rare="0.65" epic="0.35" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 		<rewardLevel min="43" max="99">
@@ -81,7 +82,7 @@
 				<rarity common="0.00" uncommon="0.30" rare="0.45" epic="0.25" />
 			</blueprints>
 			<traits chance="0.50">
-				<rarity uncommon="0.00" rare="0.45" epic="0.40" legendary="0.05" />
+				<rarity uncommon="0.00" rare="0.60" epic="0.35" legendary="0.05" />
 			</traits>
 		</rewardLevel>
 	</loottable>

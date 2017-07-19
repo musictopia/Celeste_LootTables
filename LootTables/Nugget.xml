@@ -45,19 +45,19 @@
 	</loottable>
 	<loottable name="NuggetMedium">
 		<rewardLevel min="0" max="99">
-			<advisors chance="0.15">
+			<advisors chance="0.12">
 				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
 			</advisors>
-			<materials chance="0.15">
+			<materials chance="0.12">
 				<rarity junk="0.05" common="0.25" uncommon="0.40" rare="0.20" epic="0.10" />
 			</materials>
-			<consumables chance="0.15">
+			<consumables chance="0.12">
 				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
 			</consumables>
-			<designs chance="0.15">
+			<designs chance="0.12">
 				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
 			</designs>
-			<blueprints chance="0.15">
+			<blueprints chance="0.12">
 				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
 			</blueprints>
 			<traits chance="0.40">
@@ -103,7 +103,7 @@
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
 			<traits chance="0.45">
-				<rarity uncommon="0.45" rare="0.40" epic="0.15" legendary="0.01" />
+				<rarity uncommon="0.44" rare="0.40" epic="0.15" legendary="0.01" />
 			</traits>
 		</rewardLevel>
 	</loottable>
