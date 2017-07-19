@@ -51,16 +51,16 @@
 			<materials chance="0.15">
 				<rarity junk="0.05" common="0.25" uncommon="0.45" rare="0.20" epic="0.05" />
 			</materials>
-			<consumables chance="0.15">
+			<consumables chance="0.10">
 				<rarity common="0.30" uncommon="0.45" rare="0.20" epic="0.05" />
 			</consumables>
-			<designs chance="0.15">
+			<designs chance="0.10">
 				<rarity common="0.30" uncommon="0.45" rare="0.20" epic="0.05" />
 			</designs>
-			<blueprints chance="0.15">
+			<blueprints chance="0.10">
 				<rarity common="0.30" uncommon="0.45" rare="0.20" epic="0.05" />
 			</blueprints>
-			<traits chance="0.25">
+			<traits chance="0.40">
 				<rarity uncommon="0.50" rare="0.40" epic="0.10" legendary="0.00" />
 			</traits>
 		</rewardLevel>
