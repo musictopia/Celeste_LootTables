@@ -26,7 +26,7 @@
 			<advisors chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.10">
+			<materials chance="0.30">
 				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
 			<consumables chance="0.20">
@@ -48,7 +48,7 @@
 			<advisors chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.10">
+			<materials chance="0.30">
 				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
 			<consumables chance="0.20">
@@ -70,7 +70,7 @@
 			<advisors chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.10">
+			<materials chance="0.30">
 				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
 			<consumables chance="0.20">
