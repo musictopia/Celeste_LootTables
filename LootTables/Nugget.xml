@@ -3,107 +3,107 @@
 <loottables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<loottable name="NuggetSmall">
 		<rewardLevel min="0" max="4"> <!--Level 1 Player-->
-			<advisors chance="0.10">
-				<rarity  common="0.55" uncommon="0.40" rare="0.05" epic="0.00" />
+			<advisors chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.30">
-				<rarity junk="0.50" common="0.20" uncommon="0.30" rare="0.00" epic="0.00" />
+			<materials chance="0.35">
+				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
-			<consumables chance="0.30">
-				<rarity  common="0.55" uncommon="0.40" rare="0.05" epic="0.00" />
+			<consumables chance="0.40">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</consumables>
-			<designs chance="0.10">
-				<rarity  common="0.60" uncommon="0.40" rare="0.00" epic="0.00" />
+			<designs chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</designs>
-			<blueprints chance="0.10">
-				<rarity  common="0.55" uncommon="0.40" rare="0.05" epic="0.00" />
+			<blueprints chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
 			<traits chance="0.10">
-				<rarity uncommon="0.95" rare="0.05" epic="0.00" legendary="0.00" />
+				<rarity uncommon="0.75" rare="0.30" epic="0.05" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 		<rewardLevel min="5" max="99">
-			<advisors chance="0.10">
-				<rarity  common="0.40" uncommon="0.40" rare="0.15" epic="0.05" />
+			<advisors chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.175">
-				<rarity junk="0.25" common="0.25" uncommon="0.35" rare="0.10" epic="0.05" />
+			<materials chance="0.10">
+				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
-			<consumables chance="0.175">
-				<rarity  common="0.40" uncommon="0.40" rare="0.15" epic="0.05" />
+			<consumables chance="0.20">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</consumables>
-			<designs chance="0.10">
-				<rarity  common="0.40" uncommon="0.40" rare="0.15" epic="0.05" />
+			<designs chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</designs>
-			<blueprints chance="0.10">
-				<rarity  common="0.40" uncommon="0.40" rare="0.15" epic="0.05" />
+			<blueprints chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
 			<traits chance="0.35">
-				<rarity uncommon="0.70" rare="0.25" epic="0.05" legendary="0.00" />
+				<rarity uncommon="0.75" rare="0.30" epic="0.05" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetMedium">
 		<rewardLevel min="0" max="99">
-			<advisors chance="0.12">
-				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
+			<advisors chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.12">
-				<rarity junk="0.05" common="0.25" uncommon="0.40" rare="0.20" epic="0.10" />
+			<materials chance="0.10">
+				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
-			<consumables chance="0.12">
-				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
+			<consumables chance="0.20">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</consumables>
-			<designs chance="0.12">
-				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
+			<designs chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</designs>
-			<blueprints chance="0.12">
-				<rarity common="0.30" uncommon="0.40" rare="0.20" epic="0.10" />
+			<blueprints chance="0.05">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
-			<traits chance="0.40">
-				<rarity uncommon="0.60" rare="0.30" epic="0.10" legendary="0.00" />
+			<traits chance="0.35">
+				<rarity uncommon="0.75" rare="0.30" epic="0.05" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 	</loottable>
 	<loottable name="NuggetLarge">
 		<rewardLevel min="0" max="42">
-			<advisors chance="0.15">
+			<advisors chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
 			<materials chance="0.10">
 				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
-			<consumables chance="0.10">
+			<consumables chance="0.20">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</consumables>
-			<designs chance="0.10">
+			<designs chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</designs>
-			<blueprints chance="0.10">
+			<blueprints chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
-			<traits chance="0.45">
-				<rarity uncommon="0.45" rare="0.40" epic="0.15" legendary="0.00" />
+			<traits chance="0.35">
+				<rarity uncommon="0.75" rare="0.30" epic="0.05" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 		<rewardLevel min="43" max="99">
-			<advisors chance="0.15">
+			<advisors chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</advisors>
-			<materials chance="0.10">
+			<materials chance="0.30">
 				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
 			</materials>
-			<consumables chance="0.10">
+			<consumables chance="0.20">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</consumables>
-			<designs chance="0.10">
+			<designs chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</designs>
-			<blueprints chance="0.10">
+			<blueprints chance="0.05">
 				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
 			</blueprints>
-			<traits chance="0.45">
-				<rarity uncommon="0.44" rare="0.40" epic="0.15" legendary="0.01" />
+			<traits chance="0.35">
+				<rarity uncommon="0.75" rare="0.30" epic="0.04" legendary="0.01" />
 			</traits>
 		</rewardLevel>
 	</loottable>
