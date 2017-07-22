@@ -3,23 +3,23 @@
 <loottables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<loottable name="NuggetSmall">
 		<rewardLevel min="0" max="4"> <!--Level 1 Player-->
-			<advisors chance="0.05">
-				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
+			<advisors chance="0.00">
+				<rarity common="0.50" uncommon="0.40" rare="0.10" epic="0.00" />
 			</advisors>
-			<materials chance="0.35">
-				<rarity junk="0.10" common="0.15" uncommon="0.35" rare="0.25" epic="0.15" />
+			<materials chance="0.60">
+				<rarity junk="0.20" common="0.50" uncommon="0.30" rare="0.00" epic="0.00" />
 			</materials>
 			<consumables chance="0.40">
-				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
+				<rarity common="0.60" uncommon="0.40" rare="0.00" epic="0.00" />
 			</consumables>
-			<designs chance="0.05">
-				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
+			<designs chance="0.00">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.00" />
 			</designs>
-			<blueprints chance="0.05">
-				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.15" />
+			<blueprints chance="0.00">
+				<rarity common="0.25" uncommon="0.30" rare="0.30" epic="0.00" />
 			</blueprints>
-			<traits chance="0.10">
-				<rarity uncommon="0.75" rare="0.30" epic="0.05" legendary="0.00" />
+			<traits chance="0.00">
+				<rarity uncommon="0.75" rare="0.25" epic="0.00" legendary="0.00" />
 			</traits>
 		</rewardLevel>
 		<rewardLevel min="5" max="99">
